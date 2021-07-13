@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## ABOUT ME
 
-You can use the [editor on GitHub](https://github.com/kaominghui/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I'm Nick 個性積極上進、善於溝通、謙和樂觀、待人友善，
+6年以上的 Frontend / Backend 開發經驗
+2年以上的 Line Bot Developer
+前端網站開發，Node.js + Webpack + Vue框架和設計能力
+後端Restful API開發，Java + Hibernate + Spring Boot框架和設計能力
 
 ### Markdown
 
